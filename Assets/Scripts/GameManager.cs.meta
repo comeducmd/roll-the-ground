@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 746576caa4ed14340a73450437704d6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Dong: {instanceID: 0}
+  - NameText: {fileID: 1548113799151690177, guid: 224ac0e232e083a4495e54c5e59d1802,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
