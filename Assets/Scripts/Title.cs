@@ -24,6 +24,11 @@ public class Title : MonoBehaviour
             Debug.Log("Space bar");
             StartGame();
         }
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
+            
     }
 
 }
